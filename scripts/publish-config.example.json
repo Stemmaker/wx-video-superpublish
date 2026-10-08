@@ -1,0 +1,10 @@
+{
+  "videoPath": "C:/path/to/video.mp4",
+  "title": "想让AI给你干活 先凑齐这四件套",
+  "description": "视频描述正文，话题直接写 #话题名 即可",
+  "cover34": "C:/path/to/cover-3x4.png",
+  "cover43": "C:/path/to/cover-4x3.png",
+  "qrScreenshot": "C:/path/to/channels-qr.png",
+  "scanTimeoutSec": 300,
+  "uploadTimeoutSec": 600
+}
